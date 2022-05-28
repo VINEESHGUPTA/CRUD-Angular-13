@@ -1,3 +1,7 @@
+#Overview
+Hello, This is a Application that demonstrates CRUD along with login and Signup operations using Angular 13.3.7
+Json-Server has been used to demonstate the operations.
+
 # EmployeeApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
