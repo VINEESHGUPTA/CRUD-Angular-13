@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Vineesh",
+      "lastName": "Gupta",
+      "email": "vin@gmail.com",
+      "mobile": "3434343434",
+      "salary": "50,000"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Hello",
+      "mobile": "999999",
+      "email": "sdf@gfsg.dfg.sdf",
+      "password": "432423",
+      "id": 1
+    }
+  ]
+}
